@@ -1,0 +1,155 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simpl Pay-in-3 for WooCommerce\n"
+"POT-Creation-Date: 2021-04-19 17:04+0530\n"
+"PO-Revision-Date: 2021-04-19 17:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simpl-pay-in-3-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Author of the plugin/theme
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:42
+msgid "Simpl"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:43
+msgid "Enable your users to pay for their orders in 3 simple payments by Simpl. Easy and convenient."
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:76
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:77
+msgid "Enable Simpl"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:83
+msgid "Test mode"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:84
+msgid "Enable Test Mode"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:86
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:91
+msgid "Merchant Client ID"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:95
+msgid "Merchant Client Secret"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:100
+msgid "Price Breakdown Popup Image Path"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:106
+msgid "Price Breakdown Description Simpl Logo Image Path"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:112
+msgid "Payment Method Title"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:112
+msgid "Payment Method Description"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:124
+msgid "Payment Method Logo Image Path"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:130
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:132
+msgid "Enable Logging"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:363
+msgid "Unable to generate the transaction ID. Payment couldn't proceed."
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:364
+msgid "Sorry, there was a problem preparing your payment."
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:432
+msgid ""
+"Thank you for your order, please wait as you will be automatically "
+"redirected to Simpl."
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:515
+msgid "Payment approved by Simpl successfully."
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:520
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:529
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:535
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:541
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:548
+msgid "Your payment via Simpl was unsuccessful. Please try again."
+msgstr ""
+
+#. translators: %1$s Amount, %2$s Refund ID
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:621
+#, php-format
+msgid "Refund of %1$s successfully sent to Simpl. Refund Transaction Id : %2$s"
+msgstr ""
+
+#. translators: %1$s Error Code, %2$s Error Message
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:625
+#, php-format
+msgid ""
+"There was an error submitting the refund to Simpl. Error Code %1$s, Error "
+"Message : %2$s"
+msgstr ""
+
+#: admin/class-simpl-pay-in-3-for-woocommerce-gateway.php:629
+msgid "There was an error submitting the refund to Simpl."
+msgstr ""
+
+#: includes/class-simpl-pay-in-3-for-woocommerce.php:240
+msgid "View settings"
+msgstr ""
+
+#: includes/class-simpl-pay-in-3-for-woocommerce.php:240
+msgid "Settings"
+msgstr ""
+
+#: simpl-pay-in-3-for-woocommerce.php:115
+msgid ""
+"Simpl Pay-in-3 for WooCommerce requires WooCommerce Plugin. Please install or "
+"activate WooCommerce"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simpl Pay-in-3 for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://getsimpl.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enable your users to pay for their orders in 3 simple payments by Simpl. Easy and convenient."
+msgstr ""
